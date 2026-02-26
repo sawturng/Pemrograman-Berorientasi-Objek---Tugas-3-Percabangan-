@@ -33,9 +33,9 @@ Program menerima input nilai `n (n ≥ 0)` dan menampilkan proses perhitungan fa
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Nama:** Anggia Dhini Hanifa  
 **NIM:** 2401489  
 **Kelas:** Pendidikan Ilmu Komputer - 4A  
-## 📚 Catatan
+## Catatan
 Project ini dibuat untuk keperluan pembelajaran dan pemahaman konsep perulangan dalam bahasa Java.
